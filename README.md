@@ -1,6 +1,8 @@
 abstract_data
 ============
 
+[![Join the chat at https://gitter.im/malcolmgreaves/abstract_data](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/malcolmgreaves/abstract_data?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A unifying typeclass describing collections and higher-order data transformation and manipulation actions common to a wide variety of data processing tasks. Inspired by the Scala collections API.
 
 Use Cases
