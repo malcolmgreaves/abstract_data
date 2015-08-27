@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/malcolmgreaves/abstract_data.png?label=ready&title=Ready)](https://waffle.io/malcolmgreaves/abstract_data)
 abstract_data
 ============
 [![Build Status](https://travis-ci.org/malcolmgreaves/abstract_data.svg?branch=master)](https://travis-ci.org/malcolmgreaves/abstract_data) 
