@@ -1,5 +1,6 @@
 abstract_data
 ============
+[![Build Status](https://travis-ci.org/malcolmgreaves/abstract_data.svg?branch=master)](https://travis-ci.org/malcolmgreaves/abstract_data) 
 
 A unifying typeclass describing collections and higher-order data transformation and manipulation actions common to a wide variety of data processing tasks. Inspired by the Scala collections API.
 
